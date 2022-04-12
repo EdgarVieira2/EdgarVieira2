@@ -1,7 +1,7 @@
-## 👋 Hello! Welcome to my Github profile.
-### My name is Edgar Vieira and my nickname is "EdgarVieira2"!
+ 👋 Hello! Welcome to my Github profile.
+## My name is Edgar Vieira and my nickname is "EdgarVieira2"!
 
-### Contatos:
+### Links:
 
 <div>
 
