@@ -1,4 +1,4 @@
-### 👋 Hello! My Name is Edgar Vieira 🎸
+## 👋 Hello! My Name is Edgar Vieira 
 
 
 ### Links:
