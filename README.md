@@ -1,4 +1,4 @@
-##  Hello! My Name is Edgar Vieira  <img height="16em" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"/>
+##  Hello! My Name is Edgar Vieira  <img height="20em" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"/>
 
 
 ### Links:
