@@ -2,11 +2,7 @@
 
 <h3 align="center">A passionate FullStack developer from Brazil</h3>
 
-## Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edgarvieira2&show_icons=true&locale=en&layout=compact" alt="edgarvieira2" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edgarvieira2&show_icons=true&locale=en" alt="edgarvieira2" /></p>
 
 ### Links:
 
@@ -16,12 +12,15 @@
 <a href="https://www.linkedin.com/in/edgar-vieira-32866913a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+## Stats
 
 <div>
 <a href="https://github.com/EdgarVieira2">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarVieira2&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdgarVieira2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+
 
  ## Techs:
 
